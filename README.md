@@ -1,6 +1,6 @@
 [![1689602096046](https://github.com/mohshabrez/mohshabrez/assets/31725739/ed050e7b-d4b7-45aa-8ae5-18d521c6a917)
 ](https://shabrezs-port.netlify.app/)
-<h1 align="center">Hi 👋, I'm Hs Azmathulla</h1>
+<h1 align="center">Hi 👋, I'm K Lokesh</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/g-shabrez-785362159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/g-shabrez-785362159/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/lokesh-kuntrapakam-647045229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lokesh-kuntrapakam-647045229/" height="30" width="40" /></a>
 
 </p>
 
